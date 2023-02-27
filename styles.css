@@ -1,0 +1,10 @@
+body {
+    background-color:aquamarine; 
+}
+hr {
+    background-color:white; 
+    border-style:dotted ;
+    border-bottom: grey;
+    border-width: 5px;
+    width:5% ;
+}
